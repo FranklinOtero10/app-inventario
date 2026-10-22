@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
 
+Enlace del back-end 
+https://github.com/FranklinOtero10/api-inventario
+
 ## Development server
 
 To start a local development server, run:
